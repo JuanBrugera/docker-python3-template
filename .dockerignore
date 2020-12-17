@@ -1,0 +1,9 @@
+venv
+.git
+.idea
+.gitignore
+Dockerfile
+build.py
+run.py
+
+# add more if you need
